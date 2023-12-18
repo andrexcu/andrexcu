@@ -15,6 +15,6 @@
 
 <h2> Connect with me: </h2>
 
-- 🌱 I’m currently learning React and Vue
+- 🌱 I’m currently learning Nextjs and Vue
 - 📫 How to reach me: andrexcu@gmail.com
 - 😄 Pronouns: Andrex, Jan
