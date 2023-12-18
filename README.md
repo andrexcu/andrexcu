@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrexcu&theme=tokyonight" alt="andrexcu" width="100%"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrexcu&show_icons=true&theme=tokyonight&locale=en&hide=contribs,prs" alt="andrexcu" width="100%"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=andrexcu&show_icons=true&theme=tokyonight&locale=en&hide=contribs,prs" alt="andrexcu" width="100%"/> -->
 </p>
 
 <h2> Connect with me: andrexcu@gmail.com </h2>
