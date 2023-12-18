@@ -13,4 +13,4 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=andrexcu&show_icons=true&theme=tokyonight&locale=en&hide=contribs,prs" alt="andrexcu" width="100%"/> -->
 </p>
 
-<h2> Connect with me: andrexcu@gmail.com </h2>
+<h2> Connect with me: andrexcu@gmail.com 📧</h2>
