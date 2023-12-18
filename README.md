@@ -13,8 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andrexcu&show_icons=true&theme=tokyonight&locale=en&hide=contribs,prs" alt="andrexcu" width="100%"/>
 </p>
 
-<h2> Connect with me: </h2>
-
-- 🌱 I’m currently learning Nextjs and Vue
-- 📫 How to reach me: andrexcu@gmail.com
-- 😄 Pronouns: Andrex, Jan
+<h2> Connect with me: andrexcu@gmail.com </h2>
