@@ -1,4 +1,7 @@
-<h1 align="center">☕Hi, I'm Jan Andrex!</h1>
+<h1 align="center">
+  <img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" />
+  Hi, I'm Jan Andrex!
+</h1>
 <h3 align="center">Enthusiastic computer science graduate from Ateneo de Davao University diving deep into the realms of full stack development. My current journey involves mastering Next.js, Laravel, and Django while improving my problem-solving skills on leetcode.</h3>
 
 <p align="left">
