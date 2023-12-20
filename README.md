@@ -30,5 +30,12 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=andrexcu&show_icons=true&theme=tokyonight&locale=en&hide=contribs,prs" alt="andrexcu" width="100%"/> -->
 </p>
 <h2></h2>
-<h3 align="center">Connect with me: andrexcu@gmail.com📧</h2>
+  <!--   📧Connect with me: -->
+<h3>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=ComicSans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=190&height=25&lines=%F0%9F%93%A7connect+with+me%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=ComicSans&size=20&duration=2800&vCenter=true&random=false&width=200&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" />
+  </p>
+</h3>
+ 
 <h2></h2>
