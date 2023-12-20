@@ -21,8 +21,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=rose-pine&hide_border=true" alt="GitHub Streak" width="100%"/></a>
+<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=rose-pine&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
 <!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=holi-theme&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a>
   <br><br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=andrexcu&show_icons=true&theme=tokyonight&locale=en&hide=contribs,prs" alt="andrexcu" width="100%"/> -->
 </p>
