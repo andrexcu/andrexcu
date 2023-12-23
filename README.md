@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header.png" /></a>
 </h1>
-<h3 align="left">Enthusiastic computer science major at AdDU diving deep into the realms of full stack development. My current journey involves learning diverse technologies while improving my problem-solving skills on leetcode.</h3>
+<h3 align="left">Enthusiastic computer science major at AdDU diving deep into the realms of full stack development and machine learning. My current journey involves learning diverse technologies while improving my problem-solving skills on leetcode.</h3>
 
 <p align="left">
 </p>
