@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" width="100" height="100" />
+  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" width="80" height="80" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header.png" /></a>
   <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a>
 </h1>
