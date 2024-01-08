@@ -35,7 +35,7 @@
 <h3>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=ComicSans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7connect+with+me%3A" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=ComicSans&size=20&duration=2800&vCenter=true&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" />
+    <img src="https://readme-typing-svg.demolab.com?font=ComicSans&size=20&duration=2800&vCenter=true&random=false&width=500&height=25&lines=jabcullo%40addu.edu.ph" alt="jabcullo@addu.edu.ph" />
     
 <!--     <img src="https://readme-typing-svg.demolab.com?font=ComicSans&size=20&duration=2800&center=true&vCenter=true&random=false&width=500&height=25&lines=jabcullo%40addu.edu.ph" alt="jabcullo@addu.edu.ph" /> -->
   </p>
