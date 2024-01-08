@@ -1,7 +1,7 @@
 <h1 align="left">
   <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" width="80" height="80" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header.png" /></a>
-  <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a>
+<!--   <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a> -->
 </h1>
 <h3 align="left">Enthusiastic computer science major at AdDU diving deep into the realms of full stack development and machine learning. My current journey involves learning diverse technologies while improving my problem-solving skills on leetcode.</h3>
 
