@@ -5,7 +5,7 @@
 </h1>
 <h3 align="left">
 Computer science major at AdDU, currently doing full-stack development. 
-Passionate about solving challenging projects and exploring diverse codebases. 
+Passionate about solving challenging projects and collaborating on a diverse codebase. 
 I'm also interested working on a startup.
 </h3>
 
