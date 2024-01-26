@@ -4,7 +4,7 @@
 <!--   <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a> -->
 </h1>
 <h3 align="left">
-Enthusiastic computer science major at AdDU, diving deep into the world of full-stack development. 
+Computer science major at AdDU, currently doing full-stack development. 
 Passionate about solving challenging projects and exploring diverse codebases. 
 I'm also interested working on a startup.
 </h3>
