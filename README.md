@@ -38,7 +38,7 @@ Computer science major at AdDU, currently pursuing full-stack development. Passi
   <!--   📧Connect with me: -->
 <h3>
   <p>
-    <img src="https://media.tenor.com/-q306gmVs4QAAAAi/si.gif(https://tenor.com/view/si-gif-21141064)" width="80" height="80" />
+<!--     <img src="https://media.tenor.com/-q306gmVs4QAAAAi/si.gif(https://tenor.com/view/si-gif-21141064)" width="80" height="80" /> -->
     <img src="https://readme-typing-svg.demolab.com?font=ComicSans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7connect+with+me%3A" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com?font=ComicSans&size=20&duration=2800&vCenter=true&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" />
     
