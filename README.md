@@ -47,6 +47,4 @@ Computer science major at AdDU, currently pursuing full-stack development. Passi
 </h3>
  
 <h2></h2>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrexcu/andrexcu/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrexcu/andrexcu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/andrexcu/andrexcu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andrexcu/andrexcu/output/github-snake-dark.svg" />
