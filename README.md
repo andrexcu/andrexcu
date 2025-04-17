@@ -18,47 +18,47 @@ Computer science major at AdDU, currently pursuing full-stack development. Passi
 ###
 
 <h3 align="left"> 
-  <a href="https://git-scm.com/" target="_blank" title="Git">
+  <a href="https://git-scm.com/" title="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </a>
 <img width="12" />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </a>
 <img width="12" />
 
-<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+<a href="https://www.typescriptlang.org/" title="TypeScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </a>
 <img width="12" />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </a>
 <img width="12" />
 
-<a href="https://react.dev/" target="_blank" title="React">
+<a href="https://react.dev/" title="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </a>
 <img width="12" />
 
-<a href="https://www.python.org/" target="_blank" title="Python">
+<a href="https://www.python.org/" title="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </a>
 <img width="12" />
 
-<a href="https://www.php.net/" target="_blank" title="PHP">
+<a href="https://www.php.net/" title="PHP">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </a>
 <img width="12" />
 
-<a href="https://www.mysql.com/" target="_blank" title="MySQL">
+<a href="https://www.mysql.com/" title="MySQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </a>
 <img width="12" />
 
-<a href="https://laravel.com/" target="_blank" title="Laravel">
+<a href="https://laravel.com/" title="Laravel">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
 </a>
 </h3>
