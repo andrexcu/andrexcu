@@ -1,6 +1,8 @@
 <h1 align="left">
-  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" width="80" height="80" />
+<!--   <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" width="80" height="80" /> -->
+  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header.png" /></a>
+  <img src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="80" height="80" />
 <!--   <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a> -->
 </h1>
 <h3 align="left">
