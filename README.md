@@ -1,7 +1,7 @@
 <h1 align="left">
 <!--   <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" width="80" height="80" /> -->
   <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" />
-  <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header.png" /></a>
+  <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header2.png"/>
   <img src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="80" height="80" />
 <!--   <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a> -->
 </h1>
@@ -38,6 +38,7 @@ Computer science major at AdDU, currently pursuing full-stack development. Passi
   <!--   📧Connect with me: -->
 <h3>
   <p>
+    <img src="https://media.tenor.com/-q306gmVs4QAAAAi/si.gif(https://tenor.com/view/si-gif-21141064)" width="80" height="80" />
     <img src="https://readme-typing-svg.demolab.com?font=ComicSans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7connect+with+me%3A" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com?font=ComicSans&size=20&duration=2800&vCenter=true&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" />
     
