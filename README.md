@@ -16,21 +16,7 @@ Computer science major at AdDU, currently pursuing full-stack development. Passi
 <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
 
 ###
-<!-- <a href="https://nextjs.org/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp&nbsp  -->
 
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  /> -->
 <h3 align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -64,7 +50,6 @@ Computer science major at AdDU, currently pursuing full-stack development. Passi
 </div>
 
 ###
-
 <h2></h2>
 <p align="center">
 <!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=rose-pine&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
