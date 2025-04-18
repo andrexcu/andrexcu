@@ -7,7 +7,12 @@
 </h1>
 
 <h3 align="left">
-Computer science major at AdDU, currently pursuing full-stack development. Passionate about solving challenging projects and collaborating. I'm also interested in working on a startup.
+🎓 Computer Science major at AdDU<br>
+💻 Full-stack developer<br>
+🚀 Interested in startups<br>  
+🌱 Currently learning web design — with a focus on responsiveness and clean UI/UX<br>
+
+<!-- Computer science major at AdDU, currently pursuing full-stack development. Passionate about solving challenging projects and collaborating. I'm also interested in working on a startup. -->
 </h3>
 <h2></h2>
 <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
