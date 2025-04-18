@@ -8,8 +8,8 @@
 
 <h3 align="left">
 🎓 Computer Science major at AdDU<br>
-💻 Full-stack developer<br>
-🚀 Interested in startups and collaborating<br>  
+👩🏻‍💻 Full-stack developer<br>
+🤝 Interested in startups and collaborating<br>  
 🌱 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br>
 
 <!-- Computer science major at AdDU, currently pursuing full-stack development. Passionate about solving challenging projects and collaborating. I'm also interested in working on a startup. -->
