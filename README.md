@@ -7,8 +7,8 @@
 </h1>
 
 <h3 align="left">
-🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>
 👩🏻‍💻 Full-stack developer<br>
+🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>
 🚀 Interested in startups and collaborating<br>  
 🌱 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br>
 
