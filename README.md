@@ -87,4 +87,4 @@
  
 <h2></h2>
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/andrexcu/andrexcu/output/github-snake-dark.svg" />
+<!-- <img alt="github-snake" src="https://raw.githubusercontent.com/andrexcu/andrexcu/output/github-snake-dark.svg" /> -->
