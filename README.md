@@ -59,20 +59,16 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a>
 </p>
-<img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="120" height="120" />
 <h2></h2>
  
-
+<a><img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="80" height="80" /></a>
 <!--   📧Connect with me: -->
 <div>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7Connect+with+me%3A" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=20&duration=2800&vCenter=true&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" />
   <div align="left">
-    <h3>
-    <a href="mailto:andrexcu@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
+    <h3><a href="mailto:andrexcu@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
     <a href="https://www.linkedin.com/in/andrexcu/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
@@ -83,9 +79,8 @@
   </div>
   </p>
 </div>
- 
-<h2></h2>
 
+<h2></h2>
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="110"/>
 </div>
