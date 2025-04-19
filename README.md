@@ -59,9 +59,9 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a>
 </p>
-<img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
 <h2></h2>
-  <!--   📧Connect with me: -->
+<img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
+<!--   📧Connect with me: -->
 <div>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7Connect+with+me%3A" alt="Typing SVG" />
