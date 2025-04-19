@@ -60,7 +60,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a>
 </p>
 <h2></h2>
-<img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
 <!--   📧Connect with me: -->
 <div>
   <p>
