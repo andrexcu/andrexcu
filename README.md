@@ -61,7 +61,7 @@
 </p>
 <h2></h2>
  
-<a><img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="80" height="80" /></a>
+<a><img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="120" height="120" /></a>
 <!--   📧Connect with me: -->
 <div>
   <p>
