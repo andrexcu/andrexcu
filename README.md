@@ -1,11 +1,10 @@
-<div align="left">
-  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="120" height="120" />
-  <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header2.png"/>
-</div>
+
+<h1 align="left">
+  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" />
+  <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header2.png" />
+</h1>
     
-##
- 
->**<p align="left" width="40">👩🏻‍💻 Full-stack developer<br>🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>🚀 Interested in startups and collaborating<br> 🌸 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br></p>**
+>**<p align="left" width="40"><h3>👩🏻‍💻 Full-stack developer</h3><h3>🎓 Studied Computer Science at Ateneo de Davao University, Philippines</h3><h3>🚀 Interested in startups and collaborating</h3> <h3>🌸 Currently learning web design — with a focus on responsiveness and intuitive UI/UX</h3></p>**
 
 <h2></h2>
 
