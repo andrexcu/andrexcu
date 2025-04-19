@@ -7,7 +7,7 @@
 </h1>
 
 
->**<h3 align="left">👩🏻‍💻 Full-stack developer<br>🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>🚀 Interested in startups and collaborating<br>  🌱 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br></h3>**
+>**<h3 align="left">👩🏻‍💻 Full-stack developer<br>🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>🚀 Interested in startups and collaborating<br>  🌸 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br></h3>**
 
 <!-- Computer science major at AdDU, currently pursuing full-stack development. Passionate about solving challenging projects and collaborating. I'm also interested in working on a startup. -->
 
