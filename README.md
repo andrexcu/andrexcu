@@ -9,7 +9,7 @@
 >**<p align="left">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓<br></p>**
 
 <div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="105"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="110"/>
 </div>
 <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
 
