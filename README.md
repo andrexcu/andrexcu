@@ -6,14 +6,13 @@
 <!--   <a><img src="https://media.tenor.com/Hxxta6ygnR4AAAAi/i-love-coffee-coffee-is-life.gif" width="60" height="60" /></a> -->
 </h1>
 
-<h3 align="left">
-👩🏻‍💻 Full-stack developer<br>
-🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>
-🚀 Interested in startups and collaborating<br>  
-🌱 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br>
+
+>**<h3 align="left">👩🏻‍💻 Full-stack developer<br>🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>🚀 Interested in startups and collaborating<br>  🌱 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br></h3>**
 
 <!-- Computer science major at AdDU, currently pursuing full-stack development. Passionate about solving challenging projects and collaborating. I'm also interested in working on a startup. -->
-</h3>
+
+
+
 <h2></h2>
 <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" />
 
