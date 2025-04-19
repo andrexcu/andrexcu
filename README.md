@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="left">
-🎓 Computer Science major at AdDU<br>
+🎓 Studied Computer Science at Ateneo de Davao University, Philippines<br>
 👩🏻‍💻 Full-stack developer<br>
 🚀 Interested in startups and collaborating<br>  
 🌱 Currently learning web design — with a focus on responsiveness and intuitive UI/UX<br>
