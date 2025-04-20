@@ -11,7 +11,7 @@
 <!-- <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" /> -->
 <h2></h2>
 
-**`⚛️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠`**
+**`⚛️ 𝙏𝙤𝙤𝙡𝙨 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨`**
 >**![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
