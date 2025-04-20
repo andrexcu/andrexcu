@@ -12,7 +12,7 @@
 <h2></h2>
 
 **`⚛️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠`**<br/><br/>
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexcu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" hwidth="50%" alt="languages graph"  /></a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexcu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" hwidth="50%" alt="languages graph"  /></a>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
