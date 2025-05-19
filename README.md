@@ -71,8 +71,25 @@
 
 
 <h2></h2>
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="110"/>
+
+**`👩🏻‍💻 𝙈𝙪𝙨𝙞𝙘 𝙄 𝙘𝙤𝙙𝙚 𝙩𝙤 `**
+<div>
+<!--   <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="110" width="400"/></div> -->
+
+[![1 A.M Study Session 📚 [lofi hip hop]](https://ytcards.demolab.com/?id=lTRiuFIWV54&title=1+A.M+Study+Session+%F0%9F%93%9A+%5Blofi+hip+hop%5D&lang=en&timestamp=1575849600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 A.M Study Session 📚 [lofi hip hop]")](https://www.youtube.com/watch?v=lTRiuFIWV54) 
+[![𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 90s Japanese Lofi Hiphop 📼 Nostalgic Chill Vibes](https://ytcards.demolab.com/?id=Zj3a5-0QYas&title=%F0%9D%90%8F%F0%9D%90%9A%F0%9D%90%9E%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AD%2090s%20Japanese%20Lofi%20Hiphop%20%F0%9F%93%BC%20Nostalgic%20Chill%20Vibes&lang=en&timestamp=1740019200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax")](https://www.youtube.com/watch?v=NJuSStkIZBg) 
+[![Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax](https://ytcards.demolab.com/?id=bBQA7yy7EBU&title=Jazzy+Hiphop+-+Lo-fi+Rain+%E2%98%82%EF%B8%8F+Coffee+time+%2F+for+Study+%2F+Focus+%2F+Relax&lang=en&timestamp=1723075200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax")](https://www.youtube.com/watch?v=Zj3a5-0QYas) 
+
 </div>
 
+
+
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+
+
+<!-- END YOUTUBE-CARDS -->
 <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/andrexcu/andrexcu/output/github-snake-dark.svg" /> -->
