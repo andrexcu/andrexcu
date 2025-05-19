@@ -72,7 +72,7 @@
 
 <h2></h2>
 
-**`👩🏻‍💻 𝙈𝙪𝙨𝙞𝙘 𝙄 𝙘𝙤𝙙𝙚 𝙩𝙤 `**
+**`👩🏻‍💻 𝙈𝙪𝙨𝙞𝙘 𝙄 𝙘𝙤𝙙𝙚 𝙩𝙤 🎵`**
 <div>
 <!--   <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="110" width="400"/></div> -->
 
