@@ -72,7 +72,7 @@
 
 <h1></h1>
 
-<div>
+<div align="center">
   
 **`▉ Statistics`**
 </div>
