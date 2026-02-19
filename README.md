@@ -82,8 +82,9 @@
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
   
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="49.5%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=true&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="44.5%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexcu&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" alt="GitHub Activity" width="50%" />
   
    <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040)](https://git.io/streak-stats) -->
   
