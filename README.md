@@ -14,11 +14,11 @@
 
 **`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
 </div>
-<img align="right" height="250" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)"  /><br /><br /><br /><br />
+<img align="right" height="250" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)"  /><br /><br /><br />
 <p align="center">
    𝙄 𝙚𝙣𝙟𝙤𝙮 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨.<br />
    𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨.<br />
-   𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜. <br />
+   𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜. <br /><br />
    𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.<br /> 
 </p>
 
