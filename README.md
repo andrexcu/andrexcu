@@ -1,13 +1,20 @@
-<h1 align="left">
+<h1 align="center">
   <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header2.png" />
-</h1>
-
+</h1> 
+<!-- <p align="center">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
+</p> -->
 <!-- 🔗𝙎𝙩𝙖𝙮 𝙘𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙: <a href="mailto:andrexcu@gmail.com">𝙀𝙢𝙖𝙞𝙡</a> | <a href="https://www.linkedin.com/in/andrexcu/">𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣</a> | <a href="https://t.me/andrexcu">𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢</a> -->
-
- **`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
-><p align="left">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
+    
+<div align="center">
+  
+**`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
+</div>
+<p align="center">𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br> 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
 </p>
+<!-- **`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
+><p align="left">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
+</p> -->
 
 <!-- <p align="center">
 
@@ -29,9 +36,13 @@
 <!-- <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" /> -->
 
 
-   <h1 align="center">Tech Stack</h1></summary>
+  <h1 align="center"></h1>
 
   <div align="center">
+<div align="center">
+  
+**`⚙ Tech Stack`**
+</div>
 
   ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,38 +61,12 @@
    </div>
 
 
-
-
-<!-- **`⚛️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠`**<br/><br/> -->
-<!-- <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexcu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" hwidth="50%" alt="languages graph"  /></a> -->
-
-
-<!--![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)-->
-
-<!--<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-</div> -->
-
 <h1 align="center">
-   <a href="https://github.com/andrexcu"><img alt="" src="./assets/chart.png"  width="40"/>
-  <a>Statistics</a>
   </h1>
+  <div align="center">
+  
+**`▉ Statistics`**
+</div>
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
 
