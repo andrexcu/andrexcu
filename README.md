@@ -52,22 +52,29 @@
 
 <h2></h2>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="49.5%" /> 
+
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="49.5%" /> 
+  
+   <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040)](https://git.io/streak-stats) -->
+  
+
 <!--    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrexcu&theme=shadow-blue&hide_border=true&mode=weekly" alt="GitHub Streak" width="100%" /></a> -->
 </p>
 <h2></h2>
  
 <a><img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="100" height="100" /></a>
-<!--   📧Connect with me: -->
+<!--BBC1EE   📧Connect with me: -->
 
   <p>
-    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=1&pause=1000&color=BBC1EE&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7Connect+with+me%3A" alt="Typing SVG" /></a>
-    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=20&duration=2800&vCenter=true&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" /></a>
+    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=1&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7Connect+with+me%3A" alt="Typing SVG" /></a>
+    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?borderfont=Comic+Sans&size=20&duration=2800&vCenter=true&color=FFFFFF&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" /></a>
   </p>
 
-  >**[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:andrexcu@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/andrexcu/)
-[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/andrexcu)**
+  >**[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](mailto:andrexcu@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/andrexcu/)
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/andrexcu)**
     
 
   
