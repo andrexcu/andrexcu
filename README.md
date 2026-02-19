@@ -78,7 +78,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 </div> -->
 
-<h2></h2>
+<h1 align="center">
+   <a href="https://github.com/andrexcu"><img alt="" src="./assets/bar_chart.png"  width="40"/>
+  <a>Statistics</a>
+  </h1>
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
   
