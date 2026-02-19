@@ -1,13 +1,13 @@
 <h1 align="left">
-  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" /> 
+  <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header2.png" />
 </h1>
 
 <!-- 🔗𝙎𝙩𝙖𝙮 𝙘𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙: <a href="mailto:andrexcu@gmail.com">𝙀𝙢𝙖𝙞𝙡</a> | <a href="https://www.linkedin.com/in/andrexcu/">𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣</a> | <a href="https://t.me/andrexcu">𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢</a> -->
-    
+
  **`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
 ><p align="left">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
-</p> 
+</p>
 
 <!-- <p align="center">
 
@@ -28,11 +28,11 @@
 
 <!-- <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" /> -->
 
- 
+
    <h1 align="center">Tech Stack</h1></summary>
-    
-  <div align="center"> 
-     
+
+  <div align="center">
+
   ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -46,7 +46,7 @@
   ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-  
+
    </div>
 
 
@@ -79,23 +79,23 @@
 </div> -->
 
 <h1 align="center">
-   <a href="https://github.com/andrexcu"><img alt="" src="./assets/bar_chart.png"  width="40"/>
+   <a href="https://github.com/andrexcu"><img alt="" src="./assets/chart.png"  width="40"/>
   <a>Statistics</a>
   </h1>
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=true&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="44.5%" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexcu&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" alt="GitHub Activity" width="50%" />
-  
+
    <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040)](https://git.io/streak-stats) -->
-  
+
 
 <!--    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrexcu&theme=shadow-blue&hide_border=true&mode=weekly" alt="GitHub Streak" width="100%" /></a> -->
 </p>
 <h2></h2>
- 
+
 <a><img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="100" height="100" /></a>
 <!--BBC1EE   📧Connect with me: -->
 
@@ -107,7 +107,7 @@
   >**[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](mailto:andrexcu@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/andrexcu/)
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/andrexcu)**
-    
+
 
 
 
@@ -118,13 +118,13 @@
 
 <!-- <h2></h2> --->
 
-<!-- **`🎵 𝙈𝙪𝙨𝙞𝙘 𝙄 𝙘𝙤𝙙𝙚 𝙩𝙤`** 
+<!-- **`🎵 𝙈𝙪𝙨𝙞𝙘 𝙄 𝙘𝙤𝙙𝙚 𝙩𝙤`**
 <div> -->
 <!--   <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Continuous%20improvement%20is%20better%20than%20delayed%20perfection.&author=Mark%20Twain" alt="Quote" height="110" width="400"/></div> -->
 
-<!-- [![1 A.M Study Session 📚 [lofi hip hop]](https://ytcards.demolab.com/?id=lTRiuFIWV54&title=1+A.M+Study+Session+%F0%9F%93%9A+%5Blofi+hip+hop%5D&lang=en&timestamp=1575849600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 A.M Study Session 📚 [lofi hip hop]")](https://www.youtube.com/watch?v=lTRiuFIWV54) 
-[![𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 90s Japanese Lofi Hiphop 📼 Nostalgic Chill Vibes](https://ytcards.demolab.com/?id=Zj3a5-0QYas&title=%F0%9D%90%8F%F0%9D%90%9A%F0%9D%90%9E%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AD%2090s%20Japanese%20Lofi%20Hiphop%20%F0%9F%93%BC%20Nostalgic%20Chill%20Vibes&lang=en&timestamp=1740019200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax")](https://www.youtube.com/watch?v=Zj3a5-0QYas) 
-[![Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax](https://ytcards.demolab.com/?id=bBQA7yy7EBU&title=Jazzy+Hiphop+-+Lo-fi+Rain+%E2%98%82%EF%B8%8F+Coffee+time+%2F+for+Study+%2F+Focus+%2F+Relax&lang=en&timestamp=1723075200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax")](https://www.youtube.com/watch?v=bBQA7yy7EBU) 
+<!-- [![1 A.M Study Session 📚 [lofi hip hop]](https://ytcards.demolab.com/?id=lTRiuFIWV54&title=1+A.M+Study+Session+%F0%9F%93%9A+%5Blofi+hip+hop%5D&lang=en&timestamp=1575849600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 A.M Study Session 📚 [lofi hip hop]")](https://www.youtube.com/watch?v=lTRiuFIWV54)
+[![𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 90s Japanese Lofi Hiphop 📼 Nostalgic Chill Vibes](https://ytcards.demolab.com/?id=Zj3a5-0QYas&title=%F0%9D%90%8F%F0%9D%90%9A%F0%9D%90%9E%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AD%2090s%20Japanese%20Lofi%20Hiphop%20%F0%9F%93%BC%20Nostalgic%20Chill%20Vibes&lang=en&timestamp=1740019200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax")](https://www.youtube.com/watch?v=Zj3a5-0QYas)
+[![Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax](https://ytcards.demolab.com/?id=bBQA7yy7EBU&title=Jazzy+Hiphop+-+Lo-fi+Rain+%E2%98%82%EF%B8%8F+Coffee+time+%2F+for+Study+%2F+Focus+%2F+Relax&lang=en&timestamp=1723075200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jazzy Hiphop - Lo-fi Rain ☂️ Coffee time / for Study / Focus / Relax")](https://www.youtube.com/watch?v=bBQA7yy7EBU)
 
 </div> -->
 
