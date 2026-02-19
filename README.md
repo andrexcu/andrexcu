@@ -53,9 +53,9 @@
 <h2></h2>
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
+  
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="49.5%" /> 
-
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="49.5%" /> 
   
    <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040)](https://git.io/streak-stats) -->
   
@@ -77,7 +77,11 @@
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/andrexcu)**
     
 
-  
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  width="100%"/>
+</div>
 
 
 <!-- <h2></h2> --->
