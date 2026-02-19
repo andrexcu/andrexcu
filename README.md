@@ -5,29 +5,57 @@
 
 <!-- 🔗𝙎𝙩𝙖𝙮 𝙘𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙: <a href="mailto:andrexcu@gmail.com">𝙀𝙢𝙖𝙞𝙡</a> | <a href="https://www.linkedin.com/in/andrexcu/">𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣</a> | <a href="https://t.me/andrexcu">𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢</a> -->
     
-**`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
+ **`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
 ><p align="left">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
+</p> 
+
+<!-- <p align="center">
+
+  <span width="49.5%">
+   🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮<br>
+   🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨<br>
+  🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣
+   </span>
+  <img width="49.5%" src="https://i.imgflip.com/65efzo.gif"  />
+</div> -->
+
+
+
+
+
+
 <!-- <a href="https://github.com/andrexcu/dev_setup">𝙒𝙤𝙧𝙠𝙛𝙡𝙤𝙬</a><br></p>** -->
 
 <!-- <img align="right" src="https://media.tenor.com/yS3AotsDZmgAAAAj/animation-boy.gif(https://tenor.com/view/animation-boy-chibi-cute-kawaii-gif-17678154)" width="150" height="150" /> -->
-<h2></h2>
 
-**`⚛️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠`**<br/><br/>
+ 
+   <h1 align="center">Tech Stack</h1></summary>
+    
+  <div align="center"> 
+     
+  ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  
+   </div>
+
+
+
+
+<!-- **`⚛️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠`**<br/><br/> -->
 <!-- <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexcu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" hwidth="50%" alt="languages graph"  /></a> -->
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)<br />
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)<br />
-![Visual Studio Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
 <!--![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)-->
 
 <!--<div align="left">
