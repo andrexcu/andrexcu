@@ -14,8 +14,7 @@
 
 **`👩🏻‍💻 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
 </div>
-<img align="right" height="250" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)"  /><br /><br />
-<br />
+<img align="right" height="250" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)"  /><br /><br /><br /><br />
 <p align="center">
    𝙄 𝙚𝙣𝙟𝙤𝙮 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨.<br />
    𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨.<br />
