@@ -1,8 +1,8 @@
-<div align="center" >
+<!-- <div align="center" >
   <a> <img src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif(https://tenor.com/view/wave-hi-gif-4292219348469538497)" width="80" height="80" />
   <a href="https://github.com/andrexcu"><img width="50%" alt="Hi, I'm Jan Andrex!" src="./assets/readme_header2.png" />
 </div> 
-<h1></h1>
+<h1></h1> -->
 <!-- <p align="center">🎓 𝙎𝙩𝙪𝙙𝙞𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙩 𝘼𝙩𝙚𝙣𝙚𝙤 𝙙𝙚 𝘿𝙖𝙫𝙖𝙤 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚𝙨<br>🚀 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙩𝙖𝙧𝙩𝙪𝙥𝙨 𝙖𝙣𝙙 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙣𝙜<br>🌸 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙬𝙚𝙗 𝙙𝙚𝙨𝙞𝙜𝙣—𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚𝙣𝙚𝙨𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙪𝙞𝙩𝙞𝙫𝙚 𝙐𝙄/𝙐𝙓.
 </p> -->
 <!-- 🔗𝙎𝙩𝙖𝙮 𝙘𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙: <a href="mailto:andrexcu@gmail.com">𝙀𝙢𝙖𝙞𝙡</a> | <a href="https://www.linkedin.com/in/andrexcu/">𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣</a> | <a href="https://t.me/andrexcu">𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢</a> -->
@@ -44,12 +44,13 @@
 
   <h1 align="center"></h1>
 
-  <div align="center">
+
 <div align="center">
   
-**`⚙ Tech Stack`**
+**`⚙ Technologies`**
 </div>
-
+<div align="center">
+  
   ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -63,22 +64,24 @@
   ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=MySQL&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
    </div>
 
 
 <h1></h1>
 
-<div align="center">
+<div>
   
 **`▉ Statistics`**
 </div>
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&mode=weekly&theme=shadow-blue&hide_border=true" alt="GitHub Streak" width="100%"/></a> -->
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=true&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="44.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=true&mode=weekly&background=000000&border=404040" alt="GitHub Streak" width="46.5%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexcu&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" alt="GitHub Activity" width="50%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexcu&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" alt="GitHub Activity" width="52.5%" />
 
    <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrexcu&theme=telegram-gradient&hide_border=false&mode=weekly&background=000000&border=404040)](https://git.io/streak-stats) -->
 
