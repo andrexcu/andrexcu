@@ -68,8 +68,8 @@
 <!--BBC1EE   📧Connect with me: -->
 
   <p>
-    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=215&height=25&lines=%F0%9F%93%A7Connect+with+me%3A" alt="Typing SVG" /></a>
-    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?borderfont=Fira+Code&size=20&duration=2800&vCenter=true&color=FFFFFF&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" /></a>
+    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=165&height=25&lines=%F0%9F%93%A7Connect+with+me%3A" alt="Typing SVG" /></a>
+    <a href="mailto:andrexcu@gmail.com"><img src="https://readme-typing-svg.demolab.com?borderfont=Fira+Code&size=15&duration=2800&vCenter=true&color=FFFFFF&random=false&width=500&height=25&lines=andrexcu%40gmail.com" alt="andrexcu@gmail.com" /></a>
   </p>
 
   >**[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](mailto:andrexcu@gmail.com)
