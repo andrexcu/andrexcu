@@ -63,9 +63,9 @@
   ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  <!-- ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=MySQL&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)-->
 
    </div>
 
